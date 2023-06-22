@@ -1,10 +1,10 @@
-package com.rest.demo;
+package com.news;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootRestfulServiceApplicationTests {
+class NewsSpringBootApplicationTests {
 
 	@Test
 	void contextLoads() {
